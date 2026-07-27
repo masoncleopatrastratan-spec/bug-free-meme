@@ -1,0 +1,15 @@
+{
+    "agents": [
+        "copilot"
+    ],
+    "cloud": false,
+    "packages": [
+        "livewire/blaze"
+    ],
+    "skills": [
+        "laravel-best-practices",
+        "livewire-development",
+        "pest-testing",
+        "blaze-optimize"
+    ]
+}
